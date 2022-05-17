@@ -16,4 +16,11 @@ about the code :
 - loading data set  
          Since we have imported tha pandas library importing the data set is rather simple by using the "read_csv()" function provided by pandas. This method converts the data into a DataFrame as well 
 
-- 
+- visualize each collumn using scatter seperatly 
+- import nescessary libraries for data pre processing 
+
+
+
+Split Rate table : try different split rates and document the results 
+
+different neural network : try different kinds of Neural networks and document the results
