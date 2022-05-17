@@ -23,7 +23,53 @@ about the code :
 
 Split Rate table : try different split rates and document the results 
 
-different neural network : try different kinds of Neural networks and document the results
+different neural network : try different kinds of Neural networks and document the results 
+
+single layer Perceptron :
+100 epochs 
+Epoch: 20; Error: 40.5;
+Epoch: 40; Error: 40.5;
+Epoch: 60; Error: 40.5;
+Epoch: 80; Error: 40.5;
+Epoch: 100; Error: 40.5;
+
+200 epochs
+Epoch: 20; Error: 40.5;
+Epoch: 40; Error: 40.5;
+Epoch: 60; Error: 40.5;
+Epoch: 80; Error: 40.5;
+Epoch: 100; Error: 40.5;
+Epoch: 120; Error: 40.5;
+Epoch: 140; Error: 40.5;
+Epoch: 160; Error: 40.5;
+Epoch: 180; Error: 40.5;
+Epoch: 200; Error: 40.5;
+
+500 epochs 
+Epoch: 50; Error: 40.5;
+Epoch: 100; Error: 40.5;
+Epoch: 150; Error: 40.5;
+Epoch: 200; Error: 40.5;
+Epoch: 250; Error: 40.5;
+Epoch: 300; Error: 40.5;
+Epoch: 350; Error: 40.5;
+Epoch: 400; Error: 40.5;
+Epoch: 450; Error: 40.5;
+Epoch: 500; Error: 40.5;
+
+1000 epochs 
+Epoch: 100; Error: 40.5;
+Epoch: 200; Error: 40.5;
+Epoch: 300; Error: 40.5;
+Epoch: 400; Error: 40.5;
+Epoch: 500; Error: 40.5;
+Epoch: 600; Error: 40.5;
+Epoch: 700; Error: 40.5;
+Epoch: 800; Error: 40.5;
+Epoch: 900; Error: 40.5;
+Epoch: 1000; Error: 40.5;
+
+try for epochs : 100 - 200 - 500 - 1000 
 
 
 
