@@ -24,3 +24,8 @@ about the code :
 Split Rate table : try different split rates and document the results 
 
 different neural network : try different kinds of Neural networks and document the results
+
+
+
+
+CHECK OUT AT HOME http://neuroph.sourceforge.net/tutorials/HebermanSurvival/HabermansSurvival.html 
