@@ -1,1 +1,19 @@
 data set chosen : Haberman's Survival Data , https://archive.ics.uci.edu/ml/datasets/haberman's+survival 
+number of instances : 306 
+number of attributes : 3 
+
+Attribute Information:
+
+1. Age of patient at time of operation (numerical)
+2. Patient's year of operation (year - 1900, numerical)
+3. Number of positive axillary nodes detected (numerical)
+4. Survival status (class attribute)
+-- 1 = the patient survived 5 years or longer
+-- 2 = the patient died within 5 year
+
+about the code : 
+- import nescessary libraries 
+- loading data set  
+         Since we have imported tha pandas library importing the data set is rather simple by using the "read_csv()" function provided by pandas. This method converts the data into a DataFrame as well 
+
+- 
